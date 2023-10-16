@@ -1,7 +1,7 @@
 # word-count
 In this project have the print the first three most common words that appear in a given text.
 
-## Steps run the Project
+## Steps to run the Project
 
 Step1:Press "ctrl+shift"+i to open the console.
 
